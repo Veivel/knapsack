@@ -1,0 +1,24 @@
+
+(small)
+----- dynamic programming -----
+> memory usage: current 0.00848 MB, peak 0.003568 MB
+> time taken: 0.0004s
+----- branch and bound -----
+> memory usage: current 0.00408 MB, peak 0.000408 MB
+> time taken: 0.0000s
+
+(medium)
+----- dynamic programming -----
+> memory usage: current 0.0 MB, peak 0.02144 MB
+> time taken: 0.0252s
+----- branch and bound -----
+> memory usage: current 0.0 MB, peak 0.0 MB
+> time taken: 0.0000s
+
+(large)
+----- dynamic programming -----
+> memory usage: current 0.04424 MB, peak 10.985896 MB
+> time taken: 22.1912s
+----- branch and bound -----
+> memory usage: current 0.0 MB, peak 0.0 MB
+> time taken: 0.0000s
