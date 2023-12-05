@@ -1,24 +1,30 @@
 
 (small)
 ----- dynamic programming -----
-> memory usage: current 0.00848 MB, peak 0.003568 MB
-> time taken: 0.0004s
+> cost: 740
+> memory usage: current 0.00656 MB, peak 0.003216 MB
+> time taken: 0.0003s
 ----- branch and bound -----
-> memory usage: current 0.00408 MB, peak 0.000408 MB
-> time taken: 0.0000s
+> cost: 740
+> memory usage: current 0.08816 MB, peak 0.010524 MB
+> time taken: 0.0001s
 
 (medium)
 ----- dynamic programming -----
-> memory usage: current 0.0 MB, peak 0.02144 MB
-> time taken: 0.0252s
+> cost: 29040
+> memory usage: current 0.00528 MB, peak 0.02144 MB
+> time taken: 0.0143s
 ----- branch and bound -----
-> memory usage: current 0.0 MB, peak 0.0 MB
-> time taken: 0.0000s
+> cost: 29040
+> memory usage: current 0.0284 MB, peak 0.037772 MB
+> time taken: 0.0005s
 
 (large)
 ----- dynamic programming -----
-> memory usage: current 0.04424 MB, peak 10.985896 MB
-> time taken: 22.1912s
+> cost: 5394340
+> memory usage: current 0.10296 MB, peak 10.986008 MB
+> time taken: 13.9049s
 ----- branch and bound -----
-> memory usage: current 0.0 MB, peak 0.0 MB
-> time taken: 0.0000s
+> cost: 5394340
+> memory usage: current 0.0848 MB, peak 0.395916 MB
+> time taken: 0.0046s
